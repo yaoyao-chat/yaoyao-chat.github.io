@@ -160,6 +160,7 @@ OpenAI 和 Anthropic 的页面都写明，在列表之外的地区使用，账�
 |---|---|
 | [OpenAI Codex CLI 国内使用指南](https://github.com/haiwaihuyonghui-rgb/codex-cli-guide-cn)（[摘要](docs/codex-cli.md)） | Codex 包含在哪些套餐里、安装（照官方 README）、用 ChatGPT 账号登录、多账号切换（官方方法）、Plus 和 Pro 的额度差别、credits 点数、常见报错、和 Claude Code 怎么选 |
 | [Claude Code 国内使用指南](https://github.com/haiwaihuyonghui-rgb/claude-code-guide-cn)（[摘要](docs/claude-code.md)） | 需要什么账号、官方价格表、安装、登录、Pro 和 Max 额度怎么选、报错大全、网络与代理、常用命令、和 Codex 怎么选 |
+| [Codex订阅价格](https://github.com/yaoyao-chat/codex) | 各套餐带多少 Codex、Plus/Pro 额度差多少、credits 怎么算 |
 
 ## 第六章 价格对比与总览
 
