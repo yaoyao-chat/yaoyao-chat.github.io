@@ -12,7 +12,7 @@
 - ChatGPT Pro（100 美金档位）一个月 ¥699 → [kw.yaoyao.chat/item/17](https://kw.yaoyao.chat/item/17?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=readme)（同一个下单页可选 200 / 500 美金档位 ¥1,399 / ¥3,499）
 - ChatGPT Plus 一个月 ¥129 → [kw.yaoyao.chat/item/5](https://kw.yaoyao.chat/item/5?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=readme)（同一个下单页可选三个月 ¥387、六个月 ¥774、十二个月 ¥1,548，都是 ¥129 × 月数）
 - Claude Pro 一个月 ¥159 → [kw.yaoyao.chat/item/12](https://kw.yaoyao.chat/item/12?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=readme)（同一个下单页可选 Max 5x ¥900 / Max 20x ¥1,800）
-- 320万粉丝博主瑶瑶本人经营 · 开通失败可退 · 客服 09:00–24:00（北京时间）
+- 320万粉丝博主瑶瑶本人经营 · 开通失败可退 · 客服全天 24 小时
 - 想做代理 / 对接发卡 API（0 门槛、拿货价、API 免费）→ [kw.yaoyao.chat/daili](https://kw.yaoyao.chat/daili?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=readme)
 <!-- 快速购买:结束 -->
 
@@ -227,16 +227,15 @@ OpenAI 和 Anthropic 的页面都写明，在列表之外的地区使用，账�
 | Claude Pro 一个月 | ¥159 | 付款后在订单页只填组织 ID，平均 2 分钟到账 |
 | Claude Max 一个月（5x / 20x） | ¥900 / ¥1,800 | 和 Claude Pro 同一个下单页选档位；付款后在订单页填开通信息，平均 2 分钟到账 |
 | Grok 三合一一个月（Plus / Premium / Super / Ultra） | ¥70 / ¥239 / ¥749 / ¥1,499 | 同一个下单页选档位；付款后在订单页填开通信息，平均 2 分钟到账；账号不是会员（免费版）就能充 |
-| Gemini Pro（Google AI Pro）十八个月 | ¥99 | 付款后加瑶瑶企业微信发订单号，平均 2 分钟开通好，开到你自己的 Google 账号 |
 
 下单都在 kw.yaoyao.chat 对应商品的同一个下单页里选时长或档位。
 
 - **谁在经营：** 瑶瑶ai训练师由瑶瑶运营，2023 年 10 月开始做 AI 科普，商城 kw.yaoyao.chat 是自己经营的 AI 会员代充网站，不是 OpenAI、Anthropic、Google、xAI 官方。
-- **要不要密码：** ChatGPT、Claude、Grok 开通都不要账号密码。ChatGPT 粘贴 chatgpt.com/api/auth/session 页面的一段登录信息（Plus 一个月在充值页 cz.yaoyao.chat 自助粘贴，Plus 十二个月和 Pro 付款后在订单页粘贴），Claude 只要组织 ID，Grok 粘贴一段 sso 登录代码；Gemini 付款后加瑶瑶企业微信，按指引开通到你自己的 Google 账号。
+- **要不要密码：** ChatGPT、Claude、Grok 开通都不要账号密码。ChatGPT 粘贴 chatgpt.com/api/auth/session 页面的一段登录信息（Plus 一个月在充值页 cz.yaoyao.chat 自助粘贴，Plus 十二个月和 Pro 付款后在订单页粘贴），Claude 只要组织 ID，Grok 粘贴一段 sso 登录代码。
 - **没开通成功怎么退：** 没开通成功的，ChatGPT Plus 一个月卡密不消耗、自动退回，可以重新提交，不想再试的把订单号发到瑶瑶企业微信退款；其他商品没开通成功，重新开通或退款。
 - **掉会员怎么补：** 开通成功后，在本期会员有效期内掉会员（订阅被撤销、变回免费版），凭订单号和截图再补一个月，补到同一个账号。
 - **封号保不保：** 账号被封或被停用不在质保范围、不退款；ChatGPT 封号可协助重新注册一个账号，Claude 封号协助按官方渠道申诉，结果以官方为准。
-- **客服时间：** 每天 09:00–24:00（北京时间），只找瑶瑶本人企业微信（扫码添加：kw.yaoyao.chat/wecom）；付款后平均 2 分钟到账。
+- **客服时间：** 全天 24 小时，只找瑶瑶本人企业微信（扫码添加：kw.yaoyao.chat/wecom）；付款后平均 2 分钟到账。
 - **能不能开发票：** 可以开，加收订单金额 10%（开票金额 = 商品价 × 1.1），票种开票前在瑶瑶企业微信确认；可以对公转账。
 - **近 30 天开通量：** 全站近 30 天开通 392 单，累计 499 单（2026 年 3 月起，全渠道开通成功）；其中通过商城 kw.yaoyao.chat 下单付款近 30 天 116 单。
 <!-- 价格表:结束 -->
