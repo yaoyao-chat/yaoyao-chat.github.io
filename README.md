@@ -134,6 +134,7 @@ OpenAI 和 Anthropic 的页面都写明，在列表之外的地区使用，账�
 | [Claude 充值平台怎么选](https://github.com/haiwaihuyonghui-rgb/claude-chongzhi)（[摘要](docs/claude-chongzhi.md)） | 为什么国内充值 Claude 很难、三种充值方式对比、选平台的 6 个判断点、降低被封风险的习惯、更多教程 |
 | [Claude 代充靠谱吗：原理、要交出什么信息、风险在哪](https://github.com/haiwaihuyonghui-rgb/claude-daichong/blob/main/kaopu-yuanli.md)（[摘要](docs/claude-kaopu-yuanli.md)） | 钱谁付、订阅开在哪；市面上 4 种"Claude 代充"只有 2 种是正规订阅；付款前对照 6 条；哪些情况代充也救不了 |
 | [Claude 12 个报错怎么处理](https://github.com/haiwaihuyonghui-rgb/claude-chongzhi#报错--常见问题大全)（[一页索引](docs/baocuo-sucha.md)） | 还是 Free Plan、钱充到了 API 平台、5 小时 / 每周额度、Pro 和 Max 差别、Claude Code 提示充 API、用量额度、登录报错、容量不足、付款与发票、账号停用、消息太长 |
+| [Claude代充哪家好：6 家 Pro/Max 价格·售后对比](https://github.com/yaoyao-chat/claude-hp) | 6 家 Claude会员 Pro/Max 5X/200 美元档价格、到账、售后、发票逐家对比（11 月核对官网） |
 
 ## 第三章 Grok：SuperGrok 现在叫 Grok Premium（三合一）
 
