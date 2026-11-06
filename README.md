@@ -124,6 +124,7 @@ OpenAI 和 Anthropic 的页面都写明，在列表之外的地区使用，账�
 | [ChatGPT Plus购买指南](https://github.com/yaoyao-chat/plus) | 会员包含什么、四档对比、Codex 每 5 小时额度、买几个月怎么选、免费版怎么升级 |
 | [ChatGPT Pro价格：100/200/500 美金三档区别](https://github.com/yaoyao-chat/gpt-pro) | 100/200/500 美金三档区别、10-29 额度调整、和 Plus 差在哪 |
 | [ChatGPT价格表：Plus 多少钱一个月、各地区官方价](https://github.com/yaoyao-chat/jiage) | 官方各档月费、13 个地区 App Store 标价、税费、按年按月怎么算 |
+| [ChatGPT礼品卡教程](https://github.com/yaoyao-chat/lipinka) | 六种礼品卡怎么分、官方卡兑换规则、余额加税够付几个月、失败对照表、送人三种办法 |
 
 ## 第二章 Claude Pro / Max
 
