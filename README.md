@@ -123,6 +123,7 @@ OpenAI 和 Anthropic 的页面都写明，在列表之外的地区使用，账�
 | [ChatGPT充值教程](https://github.com/yaoyao-chat/chongzhi) | 卡密充 Plus 四步、到账确认、充值页报错对照表 |
 | [ChatGPT Plus购买指南](https://github.com/yaoyao-chat/plus) | 会员包含什么、四档对比、Codex 每 5 小时额度、买几个月怎么选、免费版怎么升级 |
 | [ChatGPT Pro价格：100/200/500 美金三档区别](https://github.com/yaoyao-chat/gpt-pro) | 100/200/500 美金三档区别、10-29 额度调整、和 Plus 差在哪 |
+| [ChatGPT价格表：Plus 多少钱一个月、各地区官方价](https://github.com/yaoyao-chat/jiage) | 官方各档月费、13 个地区 App Store 标价、税费、按年按月怎么算 |
 
 ## 第二章 Claude Pro / Max
 
@@ -135,6 +136,8 @@ OpenAI 和 Anthropic 的页面都写明，在列表之外的地区使用，账�
 | [Claude 代充靠谱吗：原理、要交出什么信息、风险在哪](https://github.com/haiwaihuyonghui-rgb/claude-daichong/blob/main/kaopu-yuanli.md)（[摘要](docs/claude-kaopu-yuanli.md)） | 钱谁付、订阅开在哪；市面上 4 种"Claude 代充"只有 2 种是正规订阅；付款前对照 6 条；哪些情况代充也救不了 |
 | [Claude 12 个报错怎么处理](https://github.com/haiwaihuyonghui-rgb/claude-chongzhi#报错--常见问题大全)（[一页索引](docs/baocuo-sucha.md)） | 还是 Free Plan、钱充到了 API 平台、5 小时 / 每周额度、Pro 和 Max 差别、Claude Code 提示充 API、用量额度、登录报错、容量不足、付款与发票、账号停用、消息太长 |
 | [Claude代充哪家好：6 家 Pro/Max 价格·售后对比](https://github.com/yaoyao-chat/claude-hp) | 6 家 Claude会员 Pro/Max 5X/200 美元档价格、到账、售后、发票逐家对比（11 月核对官网） |
+| [Claude价格表：Pro 20、Max 100、Ultra 200 美元](https://github.com/yaoyao-chat/claude-jg) | 官方三档价、Fable 权限、API 单价、App Store 差价 |
+| [Claude订阅教程：官网 Pro/Max/Ultra 怎么开](https://github.com/yaoyao-chat/claude) | 网页和 App 两条路、升档换卡发票、Claude Code 订阅登录 |
 
 ## 第三章 Grok：SuperGrok 现在叫 Grok Premium（三合一）
 
@@ -144,6 +147,9 @@ OpenAI 和 Anthropic 的页面都写明，在列表之外的地区使用，账�
 |---|---|
 | [Grok Premium（原 SuperGrok）国内怎么买](https://github.com/haiwaihuyonghui-rgb/grok-premium)（[摘要](docs/grok-premium.md)） | 先看官方立场、官方四档价格、三合一是什么意思、四种开通方法、买哪一档、封号风险 |
 | [Grok 代充：什么账号能充、怎么开通、靠谱吗](https://github.com/haiwaihuyonghui-rgb/grok-premium/blob/main/grok-daichong.md)（[摘要](docs/grok-daichong.md)） | 下单前先确认账号条件（已是付费会员的充不了）、4 步开通、怎么判断卖家、会员租赁 / 合租能不能买 |
+| [Grok订阅：四档会员价格、SuperGrok 现在叫什么](https://github.com/yaoyao-chat/grok) | 四档官方价和额度、Grok Heavy 去哪了、怎么选档 |
+| [SuperGrok哪家好：8 家价格、到账、售后对比](https://github.com/yaoyao-chat/grokbijia) | Grok 四档 8 家平台逐家对比 |
+| [Grok代充流程：要准备什么、多久到账](https://github.com/yaoyao-chat/grok-dc) | 电脑五步找 sso、多久到账、没开成怎么退 |
 
 ## 第四章 Gemini Pro（Google AI Pro）
 
@@ -163,6 +169,7 @@ OpenAI 和 Anthropic 的页面都写明，在列表之外的地区使用，账�
 | [OpenAI Codex CLI 国内使用指南](https://github.com/haiwaihuyonghui-rgb/codex-cli-guide-cn)（[摘要](docs/codex-cli.md)） | Codex 包含在哪些套餐里、安装（照官方 README）、用 ChatGPT 账号登录、多账号切换（官方方法）、Plus 和 Pro 的额度差别、credits 点数、常见报错、和 Claude Code 怎么选 |
 | [Claude Code 国内使用指南](https://github.com/haiwaihuyonghui-rgb/claude-code-guide-cn)（[摘要](docs/claude-code.md)） | 需要什么账号、官方价格表、安装、登录、Pro 和 Max 额度怎么选、报错大全、网络与代理、常用命令、和 Codex 怎么选 |
 | [Codex订阅价格](https://github.com/yaoyao-chat/codex) | 各套餐带多少 Codex、Plus/Pro 额度差多少、credits 怎么算 |
+| [Codex代充：四种卖法区别、付钱前 8 问](https://github.com/yaoyao-chat/codex-dc) | 代充其实是代开 Plus/Pro 会员、四种卖法、风险 |
 
 ## 第六章 价格对比与总览
 
